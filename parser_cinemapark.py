@@ -23,4 +23,3 @@ def callback():
     # for g in name_movie:
     #     bl = g.find('div', class_='shedule_movie_sessions col col-md-8')
     #     print(bl.text)
-print(callback)
